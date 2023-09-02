@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "jobtitle": "Front-end Developr",
+        "orgname": "Tata Consultancy Services",
+        "location": "Ahemedabad,Gujrat",
+        "salary": "15,000/-",
+        "jobtype": "Full-Time"
+    },
+    {
+        "id": 2,
+        "jobtitle": "Fluter Developr",
+        "orgname": "J.P.Morgan",
+        "location": "Bengaluru,Karnataka",
+        "salary": "20,000/-",
+        "jobtype": "Full-Time, Work from home"
+    },
+    {
+        "id": 3,
+        "jobtitle": "Full-Stack Developr",
+        "orgname": "Tatva Soft",
+        "location": "Ahemedabad,Gujrat",
+        "salary": "10,000/-",
+        "jobtype": "Full-Time"
+    },
+    {
+        "id": 4,
+        "jobtitle": "React Developr",
+        "orgname": "Codentic",
+        "location": "Vadodara,Gujrat",
+        "salary": "13,000/-",
+        "jobtype": "Part-Time"
+    },
+    {
+        "id": 5,
+        "jobtitle": "Software Developr",
+        "orgname": "Solitaire Software",
+        "location": "Pune,Maharastra",
+        "salary": "15,000/-",
+        "jobtype": "Full-Time"
+    }
+]

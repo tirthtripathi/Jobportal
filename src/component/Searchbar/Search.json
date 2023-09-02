@@ -1,0 +1,57 @@
+[
+    {
+        "jobTitle": "Data Scientist",
+        "companyname": "Livepath",
+        "salary": "$11576.74"
+    },
+    {
+        "jobTitle": "Web Developer",
+        "companyname": "Browsedrive",
+        "salary": "$12550.64"
+    },
+    {
+        "jobTitle": "Data analysts",
+        "companyname": "Roomm",
+        "salary": "$10919.04"
+    },
+    {
+        "jobTitle": "Front-End Devloper",
+        "companyname": "Browsedrive",
+        "salary": "$16218.11"
+    },
+    {
+        "jobTitle": "Network engineers",
+        "companyname": "Mybuzz",
+        "salary": "$10730.10"
+    },
+    {
+        "jobTitle": "Cloud engineers",
+        "companyname": "Bubblemix",
+        "salary": "$22155.58"
+    },
+    {
+        "jobTitle": "Cybersecurity specialists",
+        "companyname": "Oyonder",
+        "salary": "$17811.67"
+    },
+    {
+        "jobTitle": "UI / UX Designer",
+        "companyname": "Mudo",
+        "salary": "$12617.43"
+    },
+    {
+        "jobTitle": "UI / UX Designer",
+        "companyname": "Shuffledrive",
+        "salary": "$20318.63"
+    },
+    {
+        "jobTitle": "Web Developer",
+        "companyname": "Fiveclub",
+        "salary": "$24011.09"
+    },
+    {
+        "jobTitle": "Data analysts",
+        "companyname": "Youbridge",
+        "salary": "$20094.84"
+    }
+]

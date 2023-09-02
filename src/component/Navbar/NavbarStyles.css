@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Ubuntu&family=Varela+Round&display=swap');
+
+* {
+    font-family: 'Varela Round', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* nav bar  */
+.nav {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    z-index: 1;
+    background-color:white;
+    box-shadow: -10px 2px 5px rgb(99, 97, 97);
+
+}
+
+/* Logo styling  */
+.logo img {
+    height: 8em;
+    width: auto;
+    padding-left: 1em;
+    margin: 0 2em 0 1.5em;
+}
+
+/* Different pages like home, About Us */
+.nav_item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 5em 0 13em;
+}
+
+.nav_item li {
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    padding: 0 1.2em;
+    position: relative;
+}
+
+.nav_item li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #1A374D;
+}
+.icone{
+    margin: 3px;
+}
+
+.nav_item li a:hover {
+    color: #4E6E81;
+}
+
+button {
+    background-color: #B1D0E0;
+    color: black;
+    margin: 0 ;
+    padding: 0.6em;
+    border-left: 25px;
+    border: none;
+    font-size: 1rem;
+    text-align: right;
+    
+}
+button:hover {
+    background-color: #406882;
+    color: white;
+    /* transition: 0.5s ease-in-out; */
+}
+#Login{
+    border-bottom-left-radius:15px;
+    border-top-left-radius:7px;
+}
+#Signup{
+    border-bottom-right-radius:7px;
+    border-top-right-radius:15px;
+}
